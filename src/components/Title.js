@@ -5,7 +5,7 @@ const Title = () => {
         <div className="title">
             <h1>Gallery App</h1>
             <h2>Your Pictures</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Add new photos and create your own gallery!</p>
         </div>
     );
 }
